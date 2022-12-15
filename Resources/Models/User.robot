@@ -1,2 +1,2 @@
 *** Variables ***
-&{USER}    email=megairon1201@gmail.com     password=Holasoygerman2
+&{USER}    email=123455@gmail.com     password=123456
